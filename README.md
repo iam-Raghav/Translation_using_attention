@@ -1,7 +1,6 @@
 # Neural_Translation_using_attention
 Translation from english to french using encoder -decoder(seq to seq) using Attention.
 
-
 # Pre-requistics
     Python- 3.7
     Torch - 1.0.0
@@ -23,4 +22,4 @@ Note:- Text cleaner file is made as a separate file for re-usability and saving 
 Once you clone this repo, run the Translate_main.py file to do the sentiment analysis and to train the model.
 
 # Evalution metric
-Evalution metric used here is the accuracy.
+No evalution metric is used in this translation, because there are many evalution methods available for translation and each metric has its own merits and de-merits. But for translation BLEU scoring system is widely used.
