@@ -1,0 +1,501 @@
+Input	Predicted	Actual_output
+be discreet .	['soyez', 'discretes', '!']	sois discret !
+you re weak .	['vous', 'etes', 'faible', '.']	vous etes faibles .
+are you sure ?	['etes', 'vous', 'sure', '?']	etes vous sures ?
+i screamed .	['je', 'me', 'le', '.']	j ai crie .
+sign here .	['signe', 'ici', '.']	signez ici .
+go away .	['va', '!', 'en', '!']	va t en !
+i m fussy .	['je', 'suis', 'difficile', '.']	je suis tatillonne .
+what a pity !	['quel', 'dommage']	dommage !
+we remember .	['nous', 'nous', 'en', 'souvenons']	nous nous souvenons .
+don t laugh .	['ne', 'ris', 'pas', '.']	ne riez pas .
+what a loss !	['quel', 'gachis', '!']	quelle perte !
+have fun .	['prends', 's', '.', '.']	amusez vous bien !
+he gave in .	['il', 'a', 'cede']	il ceda .
+who is he ?	['qui', 'est', 'il', '?']	qui est ce ?
+i like honey .	['j', 'aime', 'les', 'trains', '.']	j aime le miel .
+she shot him .	['elle', 'le', 'descendit', '.', '.']	elle lui tira dessus .
+i was good .	['j', 'ai', 'ete', 'bon', '.']	j ai ete bonne .
+is that love ?	['c', 'est', 'ca', 'l', 'amour', '?']	est ce de l amour ?
+i cut class .	['je', 'y', 'suis', 'en']	j ai seche .
+i wrote it .	['je', 'me', 'ecrit', 'ecrit', '.', '.', '.', '.']	c est moi qui l ai ecrit .
+he is sick .	['il', 'est', 'malade', '.']	il est malade .
+i must hurry .	['je', 'dois', 'me', 'depecher', '.']	je dois me hater .
+i m hungry !	['j', 'ai', 'faim', '!']	j ai faim !
+it s dead .	['c', 'est', 'mort', '.']	il est mort .
+i was at work .	['je', 'm', 'a', 'travailler', '.']	j etais au travail .
+i had fun .	['je', 'me', 'suis', 'amusee', '.']	je me suis amuse .
+bring the key .	['emmene', 'la', 'cle', '.']	apporte la cle .
+she runs .	['elle', 'me', '.']	elle court .
+i needed help .	['j', 'ai', 'eu', 'besoin', 'd', 'aide', '.']	il me fallut de l aide .
+i am sure .	['je', 'suis', 'certain', '.']	je suis sur .
+i won t cry .	['je', 'ne', 'crierai', 'pas', '.']	je ne pleurerai pas .
+can we go ?	['pouvons', 'nous', 'y', 'en']	pouvons nous partir ?
+i ll help you .	['je', 't', 'aiderai', '.']	je vous aiderai .
+i m a teacher .	['je', 'suis', 'professeur', '.']	je suis enseignante .
+i feel blue .	['je', 'me', 'sens', 'en', 'veine']	je me sens deprime .
+you may sit .	['tu', 'peux', 't', 'asseoir', '.']	vous pouvez vous asseoir .
+sweet dreams !	['fais', 'de', 'beaux', 'reves', '!']	faites de beaux reves !
+he tricked me .	['il', 'm', 'a', 'flouee', '.']	il m a eu .
+i m on a diet .	['je', 'suis', 'en', '.', '.']	je suis au regime .
+is it legal ?	['est', 'ce', '?', '?']	est ce legal ?
+thanks a lot .	['merci', 'bien', '.']	mille mercis .
+do i look old ?	['je', 'je', 'je', 'l', 'air', 'vieille']	ai je l air vieille ?
+hop in .	['monte', '.']	montez .
+be fair .	['sois', 'juste', '!']	soyez juste !
+ask anyone .	['demande', 'a', 'quiconque', '!', 'qui', '.']	demandez a n importe qui .
+you may swim .	['tu', 'peux', 'nager', '.', '.', '.', '.']	tu as la permission de nager .
+we succeeded !	['nous', 'avons', 'la', '!']	nous avons reussi !
+i love french .	['j', 'adore', 'le', 'francais', '.']	j adore le francais .
+i ll grab it .	['je', 'le', 'saisirai', '.', '.', '.']	je mettrai la main dessus .
+be confident .	['soyez', 'confiantes', '!']	soyez confiante !
+i like skiing .	['j', 'aime', 'les', 'trains', '.']	j aime le ski .
+i lost my dog .	['je', 'perdis', 'mon', 'chien', '.', '.']	j ai perdu mon chien .
+we re tired .	['nous', 'sommes', 'fatiguees', '.']	nous sommes fatigues .
+he s a bigot .	['c', 'est', 'un', 'illumine', '.']	c est un bigot .
+i m sleepy !	['j', 'ai', 'sommeil', '!']	je suis fatigue !
+i rewrote it .	['je', 'l', 'ai', 'reecrit']	je le reecrivis .
+i m buying .	['je', 'paie', '.', '.', '.', '.']	c est moi qui paie .
+wake up !	['reveille', 'toi', '!']	reveillez vous !
+he s a nerd .	['c', 'est', 'un', 'illumine', '.']	c est un binoclard .
+you re safe .	['vous', 'etes', 'saufs', '.', '.']	tu es en securite .
+we are here .	['nous', 'sommes', 'ici', '.']	nous y sommes .
+i am a muslim .	['je', 'suis', 'musulmane', '.']	je suis musulman .
+he has a book .	['il', 'dispose', 'd', 'un', 'livre']	il a un livre .
+who wants it ?	['qui', 'en', 'veut', '?']	qui le veut ?
+got it !	['compris', '!', '!', '!']	j ai pige !
+are you hurt ?	['vous', 'etes', 'vous', 'blesses', '?']	vous etes vous blesse ?
+is it a wolf ?	['est', 'ce', 'un', 'loup', '?']	est ce une louve ?
+please stop .	['s', 'il', 'te', 'plait', 'arrete', '.']	s il vous plait arretez .
+this is lame .	['c', 'est', 'faible', '.']	c est mauvais .
+i respect you .	['je', 'vous', 'respecte', '.']	je te respecte .
+i want that .	['moi', 'je', 'veux', 'ca']	je le veux .
+come in .	['entre', '.']	entre !
+have fun .	['prends', 'ce', '.', '.']	amuse toi bien !
+i m tall .	['je', 'suis', 'fort', '.']	je suis grande .
+i guess so .	['je', 'le', 'suppose']	j imagine .
+it s stupid .	['c', 'est', 'idiot', '.']	c est bete .
+stay calm .	['garde', 'ton', 'sang']	reste calme .
+he helps her .	['il', 'l', 'aime', '.']	il l aide .
+you re fair .	['vous', 'etes', 'juste', '.']	vous etes justes .
+we got lucky .	['nous', 'avons', 'eu', 'de', 'la', 'chance', '.']	on a eu de la chance .
+i ve got you .	['je', 't', 'ai', 'eues', '.']	je vous ai eus .
+i m a doctor .	['je', 'suis', 'medecin', '.']	je suis toubib .
+don t tell me .	['ne', 'me', 'le', 'dis', 'pas']	m en parle pas .
+flip a coin .	['prends', 'un', 'emploi', '!']	lance une piece !
+i like sushi .	['j', 'aime', 'les', 'echecs', '.']	j aime les sushis .
+we re even .	['nous', 'sommes', 'a', 'egalite']	nous sommes quittes .
+we agreed .	['nous', 'sommes', '.', '.', '.', '.']	nous sommes tombes d accord .
+let it be .	['ainsi', 'soit', '.']	laisse faire .
+i went aboard .	['je', 'suis', 'monte', 'a', 'bord', '.']	je suis montee a bord .
+who built it ?	['qui', 'l', 'a', 'bati', '?']	qui l a batie ?
+don t deny it .	['ne', 'le', 'niez', 'pas', '!']	ne le nie pas !
+hold this .	['tenez', 'ceci', '!']	tiens ca !
+shut up !	['ferme', 'ferme', '!']	tais toi !
+stay sharp .	['restez', 'ton', '.']	reste malin !
+i cringed .	['j', 'ai', 'un', 'mouvement', 'de', 'recul', '.']	je suis rentre en moi meme .
+i told you so .	['je', 'te', 'l', 'ai', 'dit', '!']	je te l avais dit !
+i feel funny .	['je', 'me', 'sens', 'bizarre', '.']	je me sens drole .
+let me check .	['laisse', 'moi', 'verifier', '.']	laissez moi controler .
+we ll go .	['nous', 'devrions', '.']	nous irons .
+call me .	['appelle', 'moi', '!']	appellez moi !
+can we help ?	['pouvons', 'nous', 'y', 'de', 'nous', '?', '?', '?']	pouvons nous donner un coup de main ?
+he s a liar .	['il', 'est', 'un', 'menteur', '.']	c est un menteur .
+it s my job .	['c', 'est', 'mon', 'metier', '.']	c est mon emploi .
+i can t leave .	['je', 'n', 'peux', 'pas', '.', '.']	je ne peux pas partir .
+here s .	['c', 'est', 'trois', '.']	voila cinq dollars .
+i forgot .	['je', 'me', 'suis', 'a']	j ai oublie .
+he s broke .	['il', 'est', 'ruine', '.']	il est fauche .
+tom drinks .	['tom', 'y', '.']	tom boit .
+i felt strong .	['je', 'me', 'suis', 'sentie', 'forte', '.']	je me suis senti fort .
+tom forgot .	['tom', 'a', 'oublie']	tom oublia .
+we re back .	['nous', 'sommes', 'de', 'retour', '.']	nous sommes de retour .
+i ll go in .	['j', 'irai', '.']	j entrerai .
+get your gear .	['va', 'chercher', 'tes', 'affaires', '!']	va chercher ton materiel !
+they lost .	['ils', 'ont', 'perdu', '.']	elles ont perdu .
+this is big .	['c', 'est', 'grand', '.']	c est gros .
+that is mine .	['c', 'est', 'a', 'moi', '.']	c est la mienne .
+it s a song .	['c', 'est', 'une', 'chanson', '.']	c est une chanson .
+is he right ?	['est', 'il', 'il', 'dans', 'il']	a t il raison ?
+hurry up .	['pressez', 'vous']	grouille !
+tom s funny .	['tom', 'est', 'drole', '.']	tom est marrant .
+wait a sec .	['attendez', 'une', 'seconde', '.']	attends une seconde !
+i survived .	['j', 'ai', '.', '.']	j ai survecu .
+i ll allow it .	['je', 'l', 'reparai', '.']	je le permettrai .
+beats me .	['aucune', 'idee', '.', '.', '.', '.']	j en sais foutre rien .
+take it all .	['prenez', 'tout', '!']	prends tout !
+i trusted you .	['je', 'te', 'fis', 'confiance', '.', '.']	je t ai fait confiance .
+put it back .	['recule', 'le', '!', '!', '!']	remets le en place !
+i was curious .	['j', 'etais', 'curieux', '.']	j etais curieuse .
+he let us go .	['il', 'nous', 'a', 'laisses', 'partir', 'en', 'aller', '.']	il nous a laisses nous en aller .
+i ll be nice .	['je', 'serai', 'gentil', '.']	je serai gentille .
+he got caught .	['nous', 'a', 'fait', 'prendre', '.', '.']	il s est fait prendre .
+i was asleep .	['j', 'etais', 'endormie', '.']	j etais endormi .
+i ll get it .	['j', 'irai', 'le', 'chercher', '.', '.']	je vais aller le chercher .
+we buy cds .	['nous', 'avons', 'des', 'garcons', '.']	nous achetons des cd .
+you re stuck .	['t', 'es', 'plantee', '.']	vous etes plantees .
+bring a lunch .	['apporte', 'a', 'diner', '!']	apporte a dejeuner !
+i caused this .	['j', 'ai', 'cause', 'ceci', '.']	je l ai cause .
+stay a while .	['prends', 'un', 'moment', '.']	reste un moment !
+i can sing .	['je', 'peux', 'sauter', '.']	je sais chanter .
+we lost .	['nous', 'avons', 'ete', 'defaites']	nous fumes defaites .
+tom is drunk .	['tom', 'est', 'soul', '.']	tom est saoul .
+welcome back .	['sois', 'de', 'nouveau', 'la', 'bienvenue', '!']	soyez de nouveau le bienvenu !
+i m an artist .	['je', 'suis', 'un', 'artiste', '.']	je suis une artiste .
+you hurt him .	['je', 'l', 'ai', 'sauvee', '.']	tu l as blesse .
+i enjoy music .	['j', 'entends', 'la', 'musique', '.']	j apprecie la musique .
+i m not evil .	['je', 'ne', 'suis', 'pas', 'la', '.']	je ne suis pas mauvais .
+i got dumped .	['j', 'ai', 'ete', 'larguee', '.']	j ai ete largue .
+stop yelling !	['cessez', 'de', 'hurler', '!']	cesse de hurler !
+i called you .	['je', 't', 'ai', 'appele', '.']	je t ai appelee .
+you re safe .	['vous', 'etes', 'saufs', '.']	vous etes sauve .
+we re lost .	['nous', 'sommes', 'perdues', '.']	nous sommes perdus .
+you promised .	['vous', 'avez', 'promis', '.']	tu as promis .
+i must insist .	['il', 'me', 'faut', 'insister']	je dois insister .
+i m exhausted .	['je', 'suis', 'epuise', '.']	je suis epuisee .
+i need that .	['j', 'me', 'faut', 'qu', '.']	j en ai besoin .
+stop !	['arrete', 'suffit']	stop !
+i can t sing .	['je', 'ne', 'incapable', 'pas', 'chanter', '.']	je ne sais pas chanter .
+he s a bigot .	['c', 'est', 'un', 'illumine', '.']	c est un sectaire .
+they re here .	['ils', 'ici', '.', '.']	ils sont la .
+keep it .	['gardez', 'le', '!']	garde le !
+is it yours ?	['est', 'ce', 'a', 'votre', '?']	est ce a toi ?
+i ll ask him .	['je', 'l', 'l', 'a']	je lui demanderai .
+ask around .	['demandez', 'alentour', '!']	demande alentour !
+i m losing .	['je', 'suis', 'en', 'train', 'de', 'perdre', '.']	je suis en train de perdre .
+perfect !	['il', 'ne']	parfait !
+take it easy !	['detendez', 'vous', '!']	relaxe max !
+i saw them .	['je', 'les', 'vis', '.', '.']	je les ai vues .
+do it right .	['faites', 'le', 'comme', 'il', 'faut', '!']	fais le comme il faut !
+i hugged her .	['je', 'ai', 'l', 'a']	je l etreignis .
+i m married .	['je', 'suis', 'mariee', '.']	je suis marie .
+it s perfect .	['c', 'est', 'mort', '.']	c est parfait .
+i have cash .	['j', 'ai', 'du', 'liquide', '.']	je dispose de liquide .
+come quickly !	['viens', 'vite', '!']	venez vite !
+i made a bet .	['j', 'n', 'ai', 'fait', '.', '.']	j ai effectue un pari .
+how awful !	['je', 'est', 'est', 'qui']	c est affreux !
+i m the boss .	['je', 'suis', 'la', 'patronne', '.', '.']	c est moi la patronne .
+can i ask why ?	['puis', 'je', 'demande', 'je', 'demande']	puis je demander pourquoi ?
+now drink up .	['finis', 'ton', 'verre', 'maintenant', '!', '!']	maintenant bois d un coup !
+i m full .	['je', 'suis', 'rassasie', '!']	je suis repu !
+i confessed .	['je', 'l', 'ai', 'confesse']	j ai confesse .
+i live nearby .	['je', 'vis', 'a', 'proximite', '.', '.']	je vis dans le coin .
+i called you .	['je', 't', 'ai', 'appele', '.']	je t ai appele .
+i was there .	['j', 'y', 'etais', '.']	j etais la .
+go away !	['degage', '!']	pars !
+he is asleep .	['il', 'est', 'endormi', '.']	il est endormi .
+stop reading .	['arrete', 'de', 'lire', '.']	arretez de lire .
+this is love .	['c', 'est', 'de', 'l', 'amour']	c est l amour .
+they re gone .	['il', 'n', 'y', 'en']	ils sont partis .
+i saw him .	['je', 'l', 'ai', 'vu']	je le vis .
+i sell cars .	['je', 'me', 'suis', 'des', '.']	je vends des voitures .
+loosen up .	['laisse', 'toi', '!', '!']	laissez vous aller !
+we re buying .	['nous', 'sommes', '.']	nous achetons .
+you re fussy .	['tu', 'fais', 'des', 'manieres', '.']	vous faites des manieres .
+i miss my cat .	['ma', 'chatte', 'me', 'manque', '.']	mon chat me manque .
+i m frantic .	['je', 'suis', 'affole', '.']	je suis affolee .
+i m french .	['je', 'suis', 'francais', '.']	je suis francais .
+are you ok ?	['t', 'vous', 'bien', '?', '?', '?', '?']	est ce que tu vas bien ?
+he is cranky .	['il', 'est', 'a', '.']	il est excentrique .
+what a shame !	['dommage', '!', '!']	quelle honte !
+how can it be ?	['comment', 'cela', 'se', 'peut', 'il']	comment se peut il ?
+you did this .	['vous', 'avez', 'fait', 'ceci', '.']	tu as fais ceci .
+we did it !	['nous', 'avons', 'avons', '!']	nous avons reussi !
+get my rifle .	['attrape', 'mon', 'fusil', '!']	attrape ma carabine !
+he s a senior .	['c', 'est', 'un', 'retraite', '.']	c est un ancien .
+i m thorough .	['je', 'suis', 'minutieuse', '.']	je suis consciencieux .
+nobody died .	['personne', 'ne', 'est', 'mort', '.']	personne n est mort .
+turn it off .	['eteins', 'le', '!']	eteignez le !
+it s too big .	['c', 'est', 'trop', 'grand', '.']	c est trop gros .
+you re weird .	['vous', 'etes', 'bizarres', '.']	tu es bizarre .
+give it up .	['laisse', 'tomber']	abandonne !
+i ll be back .	['je', 'reviens', '.']	je reviendrai .
+i got sick .	['je', 'me', 'suis', 'malade', '.']	je suis devenue malade .
+they re cute .	['ils', 'sont', 'mignons', '.']	ils sont mignons .
+what s this ?	['qu', 'est', 'quoi', '?', 'c']	c est quoi ca ?
+can i come in ?	['puis', 'je', 'entrer', '?']	puis je entrer ?
+we all quit .	['nous', 'demissionnons', 'tous', '.']	nous arretons toutes .
+i ll go first .	['je', 'passerai', 'en', 'premier', '.']	j irai en premier .
+i fell .	['je', 'suis', 'tombee', '.']	je suis tombe .
+we re adults .	['nous', 'sommes', 'remues', '.', '.']	nous sommes des adultes .
+i like you .	['je', 't', 'aime', 'bien']	vous me plaisez .
+he has wine .	['il', 'a', 'il', 'du', 'vin']	il a du vin .
+thank you .	['a', 'tes']	merci !
+i have orders .	['je', 'ai', 'dispose', '.', '.']	j ai des ordres .
+i m shooting .	['je', 'suis', 'la']	je tire .
+go home now .	['va', 'chez', 'toi', 'maintenant', '.']	va chez nous maintenant .
+i wonder who .	['je', 'm', 'a', 'demande', '.']	je me demande qui .
+come help me .	['viens', 'me', 'donner', 'un']	viens m aider .
+cool it down .	['pose', 'le', '!', '!']	baisse le ton .
+i m thin .	['je', 'ai', 'mince', '.']	je suis mince .
+tom left me .	['tom', 'm', 'a', 'quittee', '.']	tom m a quitte .
+it s work .	['c', 'est', 'le', '.', '.']	c est du boulot .
+we succeeded .	['nous', 'avons', 'ete', '.']	nous avons reussi .
+love hurts .	['l', 'amour', 'blesse', '.', '.']	l amour fait mal .
+i felt scared .	['je', 'me', 'sentis', 'apeuree', '.']	je me sentis apeure .
+he s wet .	['il', 'est', 'mouille', '.']	il est mouille .
+i m so sorry .	['je', 'suis', 'tellement', 'desolee', '!']	je suis tellement desole !
+i m not busy .	['je', 'ne', 'suis', 'pas', 'occupee', '.']	je ne suis pas occupe .
+pardon me ?	['pardon', 'ce', 'que']	plait il ?
+drive safely .	['conduisez', 'prudemment', '.']	conduis prudemment !
+i m a patient .	['je', 'suis', 'un', 'patient', '.']	je suis une patiente .
+i can t go .	['je', 'ne', 'peux', 'pas', 'partir', '.', '.']	je ne peux pas y aller .
+it stinks .	['ca', 'pue', '.', '.']	ca sent mauvais .
+close the box .	['fermez', 'la', 'boite', '.']	ferme la boite .
+can he see me ?	['peut', 'il', 'me', 'voir', '?', 'voir', '?', '?']	est il en mesure de me voir ?
+they agree .	['elles', 'sont', 'd', 'accord', '.']	ils sont d accord .
+i like that .	['j', 'apprecie', 'cela', '.']	j aime cela .
+may i begin ?	['est', 'ce', 'que', 'je']	puis je commencer ?
+we re home .	['nous', 'sommes', 'a', 'la', '.']	nous sommes chez nous .
+i got fined .	['j', 'ai', 'ete', 'mis', '.', 'contredanse']	j ai pris une contravention .
+i rescued him .	['je', 'l', 'ai', '.', '.']	je l ai sauve .
+i own a yacht .	['je', 'ai', 'un', 'cheval', '.', '.', '.']	je possede un bateau de plaisance .
+do i know you ?	['est', 'ce', 'que', 'je', 'te', 'connais', '?']	est ce que je vous connais ?
+he is hated .	['il', 'a', 'l', 'en']	il est hai .
+are you tom ?	['etes', 'vous', 'tom', '?', '?', '?', '?']	est ce que tu es tom ?
+take a seat .	['prends', 'place', '!']	asseyez vous !
+cut it out !	['arrete', '!']	arretez !
+set tom free .	['libere', 'tom', '.']	liberez tom .
+i m finicky .	['je', 'suis', 'meticuleux', '.']	je suis meticuleuse .
+feel this .	['touchez', 'ca', '!']	sentez ca !
+is it far ?	['est', 'ce', 'loin', '?']	est ce eloigne ?
+do it again !	['fais', 'le', 'de']	refaites le !
+release him .	['relachez', 'le', '!']	relache le !
+please stop .	['s', 'il', 'te', 'plait', 'arrete', '.']	arrete s il te plait .
+i don t snore .	['je', 'ne', 'l', 'pas', '.']	je ne ronfle pas .
+are you mad ?	['etes', 'vous', 'fou', '?']	es tu folle ?
+i caught it .	['je', 'l', 'ai', 'attrapee', '.']	je l ai attrape .
+what s that ?	['qu', 'est', 'ce', 'la']	qu est cela ?
+you re weak .	['vous', 'etes', 'faible', '.']	tu es faible .
+i can t sing .	['je', 'ne', 'incapable', 'pas', 'chanter', '.']	je suis incapable de chanter .
+open up .	['ouvre', '.', '.']	ouvre moi !
+lie still .	['restez', 'allonges', 'immobiles', '!']	restez allongees immobiles !
+no kidding ?	['sans', 'blague']	vraiment ?
+i m important .	['je', 'suis', 'ravi', '.']	je suis important .
+i see .	['je', 'vois', 'le']	je comprends .
+i like them .	['les', 'les', 'les', 'les']	je les apprecie .
+i m not sure .	['je', 'n', 'en', 'suis', 'pas', 'certaine', '.']	je n en suis pas certain .
+ask anybody .	['demande', 'a', 'qui', 'que', 'ce', 'soit']	demande a n importe qui !
+do you smoke ?	['est', 'ce', 'que']	fumez vous ?
+this is mine .	['il', 's', 'agit', 'du', 'mien']	c est le mien .
+we re sunk .	['on', 'sommes', 'foutu', '.']	nous sommes foutus .
+i let them go .	['je', 'les', 'ai', 'laisses', 'partir', '.', 'aller', '.']	je les ai laisses s en aller .
+i just got up .	['je', 'me', 'leverai', '.', '.', '.']	je viens de me lever .
+take this .	['prenez', 'ca', '.']	prends ca .
+let him in .	['laisse', 'le', 'entrer', '.']	faites le entrer .
+have we met ?	['sommes', 'nous', 'seuls', '?', 'nous']	nous sommes nous rencontres ?
+you re funny .	['t', 'es', 'marrant', '.']	t es marrante .
+it s yours .	['c', 'est', 'le', 'tien', '.']	c est la tienne .
+i m rational .	['je', 'suis', 'rationnel', '.']	je suis rationnelle .
+i was ready .	['j', 'y', 'etais', '.', '.']	j y etais pret .
+i ll cook .	['j', 'aime', '.']	je cuisinerai .
+i beg you .	['je', 'vous', 'prie', '.', '.']	je vous en supplie .
+i felt naked .	['je', 'me', 'sentis', 'nue', '.', '.']	je me suis senti nue .
+this is new .	['ce', 'est', 'neuf', '.']	c est neuf .
+now i m sad .	['je', 'suis', 'triste', '.', '.']	maintenant je suis attriste .
+i need proof .	['j', 'ai', 'besoin', 'de', 'preuves', '.']	il me faut des preuves .
+let me go !	['laisse', 'moi', 'partir', '!']	laissez moi partir !
+we are even .	['nous', 'sommes', 'a', 'egalite']	nous sommes quittes .
+remember it .	['souvenez', 'vous', 'en', '.']	souviens en toi .
+he hugged her .	['il', 'l', 'a', 'enlacee']	il l enlaca .
+is it safe ?	['est', 'ce', 'sur', '?', '?']	est ce sans danger ?
+i m fat .	['je', 'suis', 'gras', '.']	je suis gros .
+hold this .	['tenez', 'ceci', '!']	tiens ceci !
+i m managing .	['je', 'suis', '.', '.', '.']	je m en sors .
+we ll work .	['nous', 'travaillons', '.']	nous travaillerons .
+i apologized .	['j', 'ai', 'commence', '.', '.', '.']	j ai presente mes excuses .
+i feel normal .	['je', 'me', 'sens', 'normale', '.']	je me sens normal .
+i outrank you .	['j', 'ai', 'la', 'preseance']	je vous depasse .
+he mocked me .	['il', 'm', 'a', 'flouee', '.', '.', '.']	il s est moque de moi .
+i m lazy .	['je', 'suis', 'paresseux', '.']	je suis faineante .
+i oppose it .	['je', 'm', 'y', 'oppose', '.']	j y suis oppose .
+i was framed .	['j', 'ai', 'ete', '.', '.', '.', '.']	on m a tendu un piege .
+they gave up .	['elles', 'abandonnerent', '.', '.']	elles ont abandonne .
+they obeyed .	['ils', 'ont', 'obei', '.']	elles ont obei .
+i m intrigued .	['je', 'm', 'intrigue', '.']	je suis intrigue .
+get the box .	['fermez', 'la', 'boite', '.']	prenez la boite .
+i found it .	['je', 'l', 'ai', 'trouve']	je le trouvai .
+i hate them .	['je', 'les', 'hais', '.']	je les deteste .
+are you lost ?	['es', 'tu', 'perdu', '?']	etes vous perdue ?
+i went inside .	['j', 'y', 'ai', 'penetre', '.']	j y suis entre .
+she is sharp .	['elle', 'est', 'tranchante', '.']	elle est affutee .
+i ll get lost .	['j', 'irai', 'perdu', '.']	je me perdrai .
+you were shy .	['tu', 'peux', '.', '.']	tu etais timide .
+is it yours ?	['est', 'ce', 'a', 'votre', '?']	est ce le votre ?
+i made these .	['j', 'ai', 'fait', 'ceux', 'ci', '.']	j ai confectionne ceux ci .
+don t ask .	['ne', 'demande', 'pas', 'pas']	ne demande pas !
+i eat here .	['je', 'mangerai', 'ici', '.']	je mange ici .
+we survived .	['nous', 'survecumes', '.', '.']	nous avons survecu .
+i hate it .	['je', 'deteste', 'le', '.']	je deteste ca .
+don t call me .	['ne', 'sois', 'pas', 'moi', 'a']	ne m appelle pas .
+he got caught .	['nous', 'a', 'fait', 'prendre', '.']	il se fit prendre .
+you re funny .	['t', 'es', 'marrant', '.']	vous etes marrante .
+dogs bark .	['les', 'chiens', 'aboient', '.']	des chiens aboient .
+don t be rude .	['ne', 'soyez', 'pas', 'impolie', '!']	ne sois pas impoli !
+it ll work .	['ca', 'fonctionnera', '.']	ca marchera .
+i am sick .	['je', 'suis', 'malade', '.']	je suis malade .
+don t talk !	['ne', 'parlez', 'pas', '!']	ne parle pas !
+you drive .	['tu', 'conduis', '.']	toi conduis !
+i ll live .	['j', 'vais', '.']	je vivrai .
+what a loser !	['quel', 'rate', '!']	quel naze !
+it s green .	['c', 'est', '.', '.']	c est vert .
+he feels hurt .	['il', 'a', 'ete', '.', '.']	il se sent blesse .
+be respectful .	['soyez', 'respectueuse', '!']	soyez respectueux !
+stay awake .	['reste', 'eveille', '.']	reste debout .
+put it down .	['pose', 'le', '!']	laisse le !
+now leave us .	['vous', 'pouvez', 'disposer', '.']	maintenant laissez nous .
+they re cute .	['ils', 'sont', 'mignons', '.']	elles sont mignonnes .
+i want to cry .	['je', 'me', 'veux', '.', '.', '.']	j ai envie de pleurer .
+i helped out .	['je', 'y', 'epuise', '.', '.', '.', '.', '.']	j ai donne un coup de main .
+is tom sure ?	['est', 'ce', 'que', 'tom', 'est', '?']	est ce tom est sur ?
+no one came .	['personne', 'ne', 'vint', '.', '.']	personne n est venu .
+i love trips .	['j', 'adore', 'les', 'plaisanteries', '.']	j aime les voyages .
+you re cruel .	['vous', 'etes', 'cruels', '.']	tu es cruelle .
+please sit .	['je', 's', 'il', 'te', 'plait', '.']	asseyez vous je vous prie .
+i m safe .	['je', 'me', 'suis', 'en', 'securite']	je suis en securite .
+i ll call you .	['je', 't', 'vis', 'en']	je vous appellerai .
+i phoned .	['j', 'ai', 'telephone']	je telephonai .
+i m not mean .	['je', 'ne', 'suis', 'pas', 'mechante', '.']	je ne suis pas mechant .
+tom died .	['tom', 'est', 'mort', '.']	tom est mort .
+it s awful .	['c', 'est', 'affreux', '.']	c est terrible .
+i won again .	['j', 'ai', 'ai', '.', '.', '.']	j ai a nouveau gagne .
+don t run .	['ne', 'courez', 'pas', '.']	ne cours pas .
+drop it !	['laisse', 'tomber', '!']	laisse tomber !
+try to sleep .	['essayez', 'de', 'dormir', '.']	essaie de dormir .
+she is kind .	['elle', 'est', 'gentille', '.']	elle est gentille .
+let s see .	['discutons', 'voir', '.']	voyons voir !
+i made plans .	['j', 'ai', 'fait', 'des', 'projets', '.']	j ai elabore des plans .
+got it ?	['t', 'as']	compris ?
+follow me .	['suis', 'moi', '!']	suis moi .
+of course !	['mais', 'ouais', '!']	pour sur .
+i didn t care .	['je', 'n', 'ai', 'pas', 'prete', 'attention']	j ai pas fait gaffe .
+you re gross !	['vous', 'etes', 'givre', '!']	tu es malpoli !
+see you soon !	['a', 'bientot', '!', '!', '!', '!']	a tout a l heure !
+be punctual .	['soyez', 'ponctuelle', '!']	sois ponctuelle !
+i m no fool .	['je', 'ne', 'suis', 'pas', 'fou', '.', '.']	je ne suis pas une idiote .
+she hit him .	['elle', 'l', 'a', 'frappe']	elle le frappa .
+do i look old ?	['je', 'je', 'vous', 'me', 'suis', '?']	ai je l air vieux ?
+i m not done .	['je', 'n', 'ai', 'pas', 'termine', '.', '.']	je n en ai pas termine .
+i refuse .	['je', 'le', 'refuse']	je refuse .
+i made tea .	['j', 'ai', 'prepare', 'le', 'the', '.']	j ai prepare du the .
+i am american .	['je', 'suis', 'americaine', '.']	je suis americain .
+we re inside .	['nous', 'sommes', '.', '.', '.', '.']	nous sommes a l interieur .
+he touched me .	['il', 'm', 'a', 'emu', '.']	il m a touchee .
+you cheated .	['vous', 'avez', 'triche', '.']	tu as triche .
+that s icky .	['c', 'est', 'collant', '.']	c est gnangnan .
+they cheat .	['elles', 'trichent', '.']	ils trichent .
+break it up !	['courage', 'le']	arretez !
+i love myself .	['j', 'me', 'coupai', '.']	je m aime .
+keep out !	['n', 'entrez', '!', '!']	defense d entrer .
+let us out .	['laisse', 'nous', 'sortir', '!']	laissez nous sortir !
+we re stuck .	['nous', 'sommes', 'coinces', '.']	nous sommes coincees .
+deal me out .	['j', 'ai', 'flippe', '.', '.', '.']	ne compte pas sur moi .
+i looked away .	['je', 'suis', 'en', '.', '.']	j ai regarde ailleurs .
+i was lonely .	['j', 'etais', 'esseule', '.']	j etais esseulee .
+be fair .	['sois', 'juste', '!']	soyez equitables !
+be serious .	['soyez', 'serieux', '!']	sois serieuse !
+don t resist .	['ne', 'me', 'faites', 'pas']	ne resiste pas !
+have a seat .	['prends', 'place', '.']	prenez place .
+he is drunk .	['il', 'est', 'soul', '.']	il est soul .
+who wants it ?	['qui', 'en', 'veut', '?']	qui veut ca ?
+i want to go .	['je', 'veux', 'partir', '.', '.']	je veux y aller .
+i was good .	['j', 'ai', 'ete', 'bon']	je fus bonne .
+any questions ?	['de', 'quelconques', 'questions']	des questions ?
+well done !	['bien', 'la', '!']	pas mal !
+are you bald ?	['etes', 'vous', 'chauves', '?']	es tu chauve ?
+they know us .	['ils', 'nous', '.', '.']	elles nous connaissent .
+it s monday .	['c', 'est', 'le', '.']	nous sommes lundi .
+i recovered .	['je', 'me', 'suis', 'en', 'remis']	je me suis remise .
+you tried .	['tu', 'as', 'essaye', '.']	tu as essaye .
+be seated .	['assieds', 'toi', '!']	asseyez vous !
+i called you .	['je', 't', 'ai', 'appele', '.']	je vous ai appeles .
+is that so ?	['est', 'ce', 't', 'il', 'ainsi']	en est il ainsi ?
+i m creative .	['je', 'suis', 'creative', '.']	je suis creatif .
+are you home ?	['etes', 'vous', 'a', 'la', 'maison']	etes vous chez nous ?
+tom s fast .	['tom', 'est', 'rapidement', '.']	tom est rapide .
+cool down .	['restez', 'baisse', '!']	calmez vous !
+get your gear .	['va', 'chercher', 'tes', 'affaires', '!']	allez chercher votre tenue !
+go slow .	['allez', 'doucement', '!']	va doucement !
+i m your boss .	['je', 'suis', 'votre', 'chef', '.']	je suis ton chef .
+keep driving .	['roule', '!']	avance !
+he is not in .	['il', 'n', 'est', 'pas', 'a', 'l', '.', '.']	il n est pas a l interieur .
+anybody home ?	['quelqu', 'un', 'est', 'il', 'la', '?', 'dans']	y a t il quelqu un ?
+he was lucky .	['il', 'etait', 'eu', '.', '.', '.', '.']	il a eu de la chance .
+we all work .	['nous', 'travaillons', 'tous', '.']	nous travaillons tous .
+let me out !	['laisse', 'moi', 'sortir', '!']	laissez moi sortir !
+keep trying .	['continuez', 'd', 'essayer', '.']	continuez a essayer .
+i m resilient .	['je', 'suis', 'tenace', '.']	je suis endurante .
+i m lucky .	['je', 'suis', 'chanceuse', '.']	je suis chanceux .
+who saw me ?	['qui', 'me', 'mettez', '?', '?']	qui m a vu ?
+i ve finished .	['j', 'ai', 'fini', '.']	j ai termine .
+i saw you .	['je', 'vous', 'ai', 'vues', '.']	je vous ai vus .
+take care .	['prenez', 'soin', 'de', 'vous', '.']	prends soin de toi .
+i ate quickly .	['j', 'ai', 'deja', 'mange', '.']	j ai mange rapidement .
+i pay taxes .	['je', 'paie', 'des', 'impots', '.']	je paye des accises .
+he s english .	['il', 'est', 'anglais', '.']	il est anglais .
+i m retired .	['je', 'suis', 'pensionnee', '.']	je suis retraitee .
+i deserve it .	['je', 'y', 'ai', '.']	je le merite .
+stay in bed .	['restez', 'alites', '!']	restez alitee !
+you were shy .	['tu', 'peux', 'timide', '.']	vous etiez timide .
+we lost .	['nous', 'avons', 'ete', 'defaites']	nous fumes battues .
+i can manage .	['je', 'peux', 'expliquer', '.', '.']	je peux me debrouiller .
+they re weak .	['ils', 'sont', 'faibles', '.']	ils sont faibles .
+call us .	['appelez', 'nous', '!']	appelle nous !
+you re nuts !	['vous', 'etes', 'givre', '!']	vous etes givrees !
+i burned it .	['je', 'l', 'ai', 'brule', '.']	je l ai brulee .
+get the box .	['fermez', 'la', 'boite', '.']	prends la boite .
+he is smart .	['il', 's', 'est', '.']	il est intelligent .
+this is new .	['ce', 'est', 'neuf', '.']	c est nouveau .
+i like movies .	['j', 'aime', 'le', 'cinema', '.']	j aime le cinema .
+go ahead .	['passe', 'devant', '!']	vas y !
+drop it !	['laisse', 'tomber', '!', '!']	laissez le tomber !
+are you busy ?	['es', 'tu', 'occupes', '?']	etes vous occupe ?
+it will burn .	['ca', 'a', 'neige', '.']	ca va bruler .
+i believe you .	['je', 'te', 'crois', '.']	je vous crois .
+we ll cook .	['nous', 'echouerons', '.', '.', '.']	nous ferons la cuisine .
+i needed help .	['j', 'ai', 'eu', 'besoin', 'd', 'aide', '.', '.']	il m a fallu de l aide .
+stand back !	['recule', 'toi', '!']	reculez vous !
+let s split .	['divisons', 'nous', '!']	separons nous !
+i feel faint .	['je', 'me', 'sens', 'pris', 'de', 'malaise', 'evanouir']	je me sens prise de malaise .
+they re mine .	['ils', 'sont', 'miennes', '.', '.']	ce sont les miennes .
+you tried .	['tu', 'as', 'essaye', '.']	vous avez essaye .
+never mind !	['t', 'inquiete', 'pas', '.', '.', '.']	n y prete pas attention .
+don t move .	['ne', 'bouge', 'pas', '.']	ne bougez pas .
+you re big .	['tu', 'etes', 'grand', '.']	vous etes grand .
+i ve done it .	['je', 'l', 'ai', 'fait', '.']	je l ai fait .
+you re nuts !	['vous', 'etes', 'givre', '!']	vous etes givree !
+stop staring .	['arrete', 'de', 'me', 'fixer', '!']	arretez de me fixer !
+can you swim ?	['savez', 'vous', 'nager', '?', 'sais', 'nager', '?']	est ce que vous savez nager ?
+i love summer .	['j', 'adore', 'le', 'r', '.']	j adore l ete .
+i woke you up .	['je', 't', 'ai', 'reveille', '.']	je t ai reveillee .
+i must refuse .	['il', 'me', 'faut', 'refuser']	je dois refuser .
+i go jogging .	['j', 'ai', 'de', 'de']	je vais courir .
+can we leave ?	['peut', 'on', 's', 'en']	pouvons nous partir ?
+i ll quit .	['je', 'vais', 'abandonner']	j abandonnerai .
+have a donut .	['prenez', 'un', 'beignet', '.']	prends un beignet .
+i feel ready .	['je', 'me', 'sens', 'pret', '.']	je me sens pret .
+he let us go .	['il', 'nous', 'a', 'nous', 'en']	il nous laissa partir .
+easy does it .	['on', 'n', 'est', 'pas']	on se calme !
+i feel blue .	['je', 'me', 'sens', 'en', 'veine']	je me sens deprimee .
+take mine .	['prends', 'les', 'miennes', '.']	prends la mienne .
+go ahead .	['passe', 'devant']	poursuis !
+do you get it ?	['vous', 'captez', '?', 'vous', 'captez', '?']	est ce que tu captes ?
+you re quiet .	['tu', 'es', 'calme', '.']	tu es tranquille .
+do it again !	['fais', 'le', 'de', 'nouveau', '!']	faites le a nouveau !
+is it nearby ?	['est', 'ce', 'dans', 'les']	est ce proche ?
+you re stuck .	['t', 'es', 'plantee', '.']	vous etes plante .
+i ran outside .	['je', 'courus', 'dehors', '.', 'courus', 'dehors', '.']	j ai couru a l exterieur .
+no way !	['c', 'est', 'exclu', '!']	en aucun cas .
+i have to go .	['il', 'me', 'faut', 'y', 'aller', '.', '.']	il me faut m en aller .
+get down .	['lachez', 'vous']	descends !
+loosen up .	['laisse', 'toi', '!']	echauffe toi !
+too late .	['j', 'en', 'retard']	trop tard .
+who did it ?	['qui', 'l', 'a', 'fait', '?']	qui a fait ca ?
+i am ready .	['je', 'suis', 'pret', '.']	je suis pret .
+he will come .	['il', 'devrait', 'arriver']	il viendra .
+i m crazy .	['je', 'suis', 'folle', '.']	je suis fou .
+you re early .	['vous', 'etes', 'matinal', '.']	tu es matinale .
+i want it .	['je', 'veux', 'le', '.']	je le veux .
+warn tom .	['avertis', 'tom', '.']	previens tom .
+don t worry .	['t', 'vous', 'en', 'faites', 'pas', '.']	ne t en fais pas .
+she sued him .	['elle', 'le', 'poursuivit', 'en', 'justice', '.', '.']	elle lui a fait un proces .
